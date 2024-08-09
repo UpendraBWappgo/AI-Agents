@@ -1,7 +1,11 @@
+# crewai_tools 
+
+
 crewai
-crewai_tools 
-load_dotenv 
-langchain 
-langchain-openai 
+crewai[tools]
+load_dotenv
+#python-dotenv
+langchain
+langchain-openai
 langchain-huggingface
-# python-dotenv
+
